@@ -1,4 +1,5 @@
 venv/
+venv-exp1/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
@@ -6,3 +7,5 @@ data/raw/
 data/processed/
 models/
 .env
+hello.txt
+downloaded.txt
